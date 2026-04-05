@@ -1,16 +1,17 @@
-## Hi there 👋
+Hello, I'm Tobias
 
-<!--
-**Tobias-SM-04/Tobias-SM-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This account was created so I can have my personal entries on my studies, and specially to manage my different interests.
+I currently work in Fraud Prevention, and I'm on the early semesters of cybersecurity course.
 
-Here are some ideas to get you started:
+My personal interests have a wide range:
+- Cybersecurity and offensive/defensive practices  
+- Linux and terminal-driven workflows  
+- Networking and infrastructure  
+- Amateur radio and independent communication systems  
+- Self-hosting, privacy, system autonomy and resilience / preparedness systems
+- Electronics, embedded systems, and DIY builds
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focusing on building a strong foundation on linux, networking and developing pratical skills.
+I value autonomy and simplicity over convenience 
+
+Based in Brazil — proud of it. Living the cyberpunk experience in real time.
